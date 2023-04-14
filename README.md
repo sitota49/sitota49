@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Sitota
+
+I'm a software engineering student interested in full stack developent and computer science research.<br>
+See my portfolio at https://sitota49.github.io/<br>
+Linkedin : https://linkedin.com/in/sitota-ezra-mersha
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,vue,nodejs,py,js,dart,html,css,cpp,cs,supabase,ts,postgres,php,tensorflow,tailwind,redux,prisma,nuxtjs,nextjs,mysql,mongodb,java,git,firebase,dotnet,docker,astro,firebase&perline=50)](https://skillicons.dev)
 
 <!--
 **sitota49/sitota49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
