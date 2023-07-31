@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Sitota
 
-I'm a software engineering student interested in full stack developent and computer science research.<br>
+I'm a full stack developer and computer science research assistant.<br>
 See my portfolio at https://sitota49.github.io/<br>
 Linkedin : https://linkedin.com/in/sitota-ezra-mersha
 
